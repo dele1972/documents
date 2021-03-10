@@ -2,7 +2,7 @@
 
 ## An introduction to regular expressions in Vim
 
-[source][1]
+[source](#sources)
 
 This is a brief overview that covers probably 80% of typical regular expression use cases for refactoring applications.
 
@@ -73,12 +73,11 @@ I had a brain fart about halfway through, if you want to select a region based o
     - `(:\s+\d*:\d;)`
     - ... or is a little more sly way `(:.\{-};)`
 
-### Sources
+## Sources
 
-[1]: https://youtu.be/4KwsijqA7tQ (YouTube Video, *"An introduction to regular expressions in Vim"*, by IntermediateVim, 15.02.2020)
-[2]: https://github.com/markonm/traces.vim (recommend Vim PlugIn: traces)
-[3]: https://www.reddit.com/r/vim/comments/f0iwrk/my_personal_list_of_vim_tips/fgvbdid/?context=3 (Blog Article, *"My personal list of vim tips"*, by u/antoyo, 2020-02-08)
-[4]: http://vimregex.com/ (Vim Regex Tutorial)
-[5]: http://vimregex.com/#metacharacters (recommend Chapter: *"4.2 'Escaped' characters or metacharacters"*)
-[6]: https://vim.fandom.com/wiki/Ranges (Vim Tips Wiki, Chapter *"Ranges"*)
-
+\[**1**\]: https://youtu.be/4KwsijqA7tQ (YouTube Video, *"An introduction to regular expressions in Vim"*, by IntermediateVim, 15.02.2020)  
+\[**2**\]: https://github.com/markonm/traces.vim (recommend Vim PlugIn: traces)  
+\[**3**]\: https://www.reddit.com/r/vim/comments/f0iwrk/my_personal_list_of_vim_tips/fgvbdid/?context=3 (Blog Article, *"My personal list of vim tips"*, by u/antoyo, 2020-02-08)  
+\[**4**\]: http://vimregex.com/ (Vim Regex Tutorial)  
+\[**5**\]: http://vimregex.com/#metacharacters (recommend Chapter: *"4.2 'Escaped' characters or metacharacters"*)  
+\[**6**\]: https://vim.fandom.com/wiki/Ranges (Vim Tips Wiki, Chapter *"Ranges"*)  
