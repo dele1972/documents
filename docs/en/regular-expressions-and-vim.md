@@ -2,7 +2,7 @@
 
 ## An introduction to regular expressions in Vim
 
-[source](#sources)
+source: [→ \[1\]](#sources)
 
 This is a brief overview that covers probably 80% of typical regular expression use cases for refactoring applications.
 
@@ -20,7 +20,7 @@ I had a brain fart about halfway through, if you want to select a region based o
     - `%` - all lines in the file ...
     - `s/ind` ... substitute *ind*
     - `/RSW` ... with *RSW*
-- [2:33](https://youtu.be/4KwsijqA7tQ?t=153) Introduce traces Vim Plugin
+- [2:33](https://youtu.be/4KwsijqA7tQ?t=153) Introduce *traces* Vim Plugin [→ \[2\]](#sources)
 - [3:23](https://youtu.be/4KwsijqA7tQ?t=203) **substitute within a range** (*vsual bock mode*)
   - `:'<,'>s/ind/RSW`
     - `'<,'>` - from start up to end of visual block ...
